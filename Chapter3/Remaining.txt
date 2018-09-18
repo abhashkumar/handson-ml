@@ -1,0 +1,3 @@
+Titanic with feature engineering
+
+Spam detection code review > alomost done, use beautifulsoup for parsing  email having html
